@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Weather/static/css/main.1dd16528.css",
+    "main.js": "/Weather/static/js/main.524b1ce6.js",
+    "static/media/ezgif.com-webp-to-jpg.jpg": "/Weather/static/media/ezgif.com-webp-to-jpg.3bc9990983075057b911.jpg",
+    "index.html": "/Weather/index.html",
+    "main.1dd16528.css.map": "/Weather/static/css/main.1dd16528.css.map",
+    "main.524b1ce6.js.map": "/Weather/static/js/main.524b1ce6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1dd16528.css",
+    "static/js/main.524b1ce6.js"
+  ]
+}
